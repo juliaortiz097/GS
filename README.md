@@ -7,7 +7,7 @@
 | Julia Ortiz     | 550204 |
 | Julia Palomari  | 551910 |
 | Leticia Batista | 550289 |
-| Vinicius Borges | 977767 |
+| Vinicius Borges | 97767 |
 
 ---
 
