@@ -25,7 +25,7 @@ O projeto utiliza um Arduino Uno, dois servomotores e um LED de status para repr
 
 Tinkercad:
 
-https://www.tinkercad.com/things/5eZNJ8K1XiA-gs-4espf
+https://www.tinkercad.com/things/5eZNJ8K1XiA-gs-4espf?sharecode=tedkISmYDOnOuagNbWMa2h7AEDs8H9_ACE8QQ1QGHiM
 
 ---
 
